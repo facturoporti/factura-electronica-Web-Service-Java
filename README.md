@@ -110,7 +110,7 @@ public static void CancelarCFDI(String UUID) throws Exception {
 
 ## Probar Cancelación de CFDI
 
-Ejecuta el botón enviar cancelación, antes de ejecutar el código deberás de actualizar los valores con tus datos fiscales; al término de la ejecución obtendrás la respuesta, en la ventana de salida o comandos.
+Antes de ejecutarel método de cancelación del código deberás de actualizar los valores con tus datos fiscales; al término de la ejecución obtendrás la respuesta, en la ventana de salida o comandos.
 
 **Nota: El certificado digital que se debe de enviar es de tipo PFX si no se manda el correcto mandará error la cancelación**
 
