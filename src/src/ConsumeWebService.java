@@ -39,7 +39,7 @@ public class ConsumeWebService {
 		autenticar.setUsuario("PruebasTimbrado");		
 		autenticar.setContrasenia("@Notiene1");
 		
-		File file = FileUtils.getFile(MAIN_PATH + "XEXX010101000_FAC_AC2_20190524.xml");
+		File file = FileUtils.getFile(MAIN_PATH + "XEXX010101000_FAC_AC7_20190530.xml");
 
    	    // Se debe de actualizar la Fecha actual en el archivo ya que si no marcara error de timbrado
    	    String data = FileUtils.readFileToString(file, "UTF-8");
